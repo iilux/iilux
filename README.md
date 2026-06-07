@@ -44,22 +44,18 @@ I build desktop tools, Discord bots and homelab setups — always learning, alwa
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [⚡ Termo](https://github.com/iilux/termo) | Custom desktop terminal with a unique aesthetic | Electron · React · xterm.js |
-| [✏️ Strok](https://github.com/iilux/strok) | Minimalist desktop drawing app | Electron · React |
-| [🤖 FiveM Bot](https://github.com/iilux/fivem-bot) | Discord bot for GTA RP — attendance, weapons, weekly resets | Node.js · discord.js · MariaDB |
-| [🔍 Network Scanner](https://github.com/iilux/network-scanner) | Network scanner with Python GUI for cybersecurity use | Python · tkinter |
-| [🛒 VPS CIEL Store](https://github.com/iilux/vps-ciel-store) | VPS ordering platform — school infra project | Web |
-| [🏠 Homelab](https://github.com/iilux/homelab) | Proxmox · Pterodactyl · nginx reverse proxy · Pi-hole | Infra · Linux |
+| [⚡ Termo] | Custom desktop terminal with a unique aesthetic | Electron · React · xterm.js |
+| [✏️ Strok] | Minimalist desktop drawing app | Electron · React |
+| [🤖 FiveM Bot] | Discord bot for GTA RP — attendance, weapons, weekly resets | Node.js · discord.js · MariaDB |
+| [🔍 Network Scanner] | Network scanner with Python GUI for cybersecurity use | Python · tkinter |
+| [🛒 VPS CIEL Store] | VPS ordering platform — school infra project | Web |
+| [🏠 Homelab] | Proxmox · Pterodactyl · nginx reverse proxy · Pi-hole | Infra · Linux |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iilux&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iilux&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iilux&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
