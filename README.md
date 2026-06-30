@@ -44,7 +44,7 @@ I build desktop tools, Discord bots and homelab setups — always learning, alwa
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| ⚡ Termo | Custom desktop terminal with a unique aesthetic | Electron · React · xterm.js |
+| ⚡ Terma | Custom desktop terminal with a unique aesthetic | Electron · React · xterm.js |
 | ✏️ Strok | Minimalist desktop drawing app | Electron · React |
 | 🤖 FiveM Bot | Discord bot for GTA RP — attendance, weapons, weekly resets | Node.js · discord.js · MariaDB |
 | 🔍 Network Scanner | Network scanner with Python GUI for cybersecurity use | Python · tkinter |
